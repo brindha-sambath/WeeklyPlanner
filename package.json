@@ -1,0 +1,10 @@
+{
+  "name": "weekly-planner",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A weekly planner with calendar, categories, and to-dos that persists to a local data.json file",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  }
+}

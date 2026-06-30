@@ -1,0 +1,148 @@
+{
+  "events": [
+    {
+      "id": "mqkqc260qunam",
+      "title": "Read — 30 pages",
+      "dateStr": "2026-06-18",
+      "startTime": "16:30",
+      "endTime": "17:30",
+      "categoryId": "c5",
+      "reminder": true,
+      "notes": ""
+    },
+    {
+      "id": "mqukamoijt4ns",
+      "title": "Cook, Bath and Lunch",
+      "dateStr": "2026-06-26",
+      "startTime": "12:30",
+      "endTime": "14:00",
+      "notes": "",
+      "categoryId": "c2",
+      "reminder": false
+    },
+    {
+      "id": "mqukcdaqfqc1v",
+      "title": "Merge branch",
+      "dateStr": "2026-06-26",
+      "startTime": "14:00",
+      "endTime": "15:00",
+      "notes": "",
+      "categoryId": "c1",
+      "reminder": false
+    },
+    {
+      "id": "mqukdcca3oc09",
+      "title": "Claude - learning",
+      "dateStr": "2026-06-26",
+      "startTime": "15:00",
+      "endTime": "16:00",
+      "notes": "",
+      "categoryId": "c1",
+      "reminder": false
+    },
+    {
+      "id": "mqukdwgevnllq",
+      "title": "Tea break",
+      "dateStr": "2026-06-26",
+      "startTime": "16:00",
+      "endTime": "16:30",
+      "notes": "",
+      "categoryId": "c1",
+      "reminder": false
+    },
+    {
+      "id": "mqukey63ho5z7",
+      "title": "Merge branch remaining/ Claude and Status call",
+      "dateStr": "2026-06-26",
+      "startTime": "16:30",
+      "endTime": "17:30",
+      "notes": "",
+      "categoryId": "c1",
+      "reminder": false
+    },
+    {
+      "id": "mqukfwxqvc0tm",
+      "title": "Refresh",
+      "dateStr": "2026-06-26",
+      "startTime": "17:45",
+      "endTime": "18:15",
+      "notes": "",
+      "categoryId": "c2",
+      "reminder": false
+    },
+    {
+      "id": "mqukmmc9asr9v",
+      "title": "Read/ Claude Code",
+      "dateStr": "2026-06-26",
+      "startTime": "18:15",
+      "endTime": "20:00",
+      "notes": "",
+      "categoryId": "c3",
+      "reminder": false
+    },
+    {
+      "id": "mqukn4d6a7mu8",
+      "title": "Cook and Dinner",
+      "dateStr": "2026-06-26",
+      "startTime": "20:00",
+      "endTime": "21:00",
+      "notes": "",
+      "categoryId": "c2",
+      "reminder": false
+    },
+    {
+      "id": "mqukntyey4587",
+      "title": "Read",
+      "dateStr": "2026-06-26",
+      "startTime": "21:15",
+      "endTime": "22:15",
+      "notes": "",
+      "categoryId": "c5",
+      "reminder": false
+    },
+    {
+      "id": "mqukovsr9wmpt",
+      "title": "Wake Up",
+      "dateStr": "2026-06-27",
+      "startTime": "06:00",
+      "endTime": "07:00",
+      "notes": "",
+      "categoryId": "c2",
+      "reminder": false
+    }
+  ],
+  "categories": [
+    {
+      "id": "c1",
+      "name": "Work",
+      "color": "#6c63ff"
+    },
+    {
+      "id": "c2",
+      "name": "Health",
+      "color": "#22c97a"
+    },
+    {
+      "id": "c3",
+      "name": "Personal",
+      "color": "#f4a03c"
+    },
+    {
+      "id": "c4",
+      "name": "Social",
+      "color": "#e05c99"
+    },
+    {
+      "id": "c5",
+      "name": "Reading",
+      "color": "#4ec9b0"
+    }
+  ],
+  "todos": [
+    {
+      "id": "mqoyr83h7982a",
+      "text": "plan later",
+      "done": false
+    }
+  ]
+}

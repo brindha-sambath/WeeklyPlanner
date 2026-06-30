@@ -1,0 +1,110 @@
+{
+  "habits": [
+    {
+      "id": "hb1",
+      "name": "Proper sleep",
+      "color": "#8b85ff"
+    },
+    {
+      "id": "hb2",
+      "name": "Walk 45 mins",
+      "color": "#22c97a"
+    },
+    {
+      "id": "hb3",
+      "name": "Exercise",
+      "color": "#f4a03c"
+    },
+    {
+      "id": "hb4",
+      "name": "Healthy Food",
+      "color": "#4ec9b0"
+    },
+    {
+      "id": "hb5",
+      "name": "Less Stress",
+      "color": "#e05c99"
+    }
+  ],
+  "habitLog": {
+    "2026-06-18": {
+      "hb2": true,
+      "hb4": true
+    },
+    "2026-06-15": {
+      "hb3": true,
+      "hb4": true
+    },
+    "2026-06-14": {
+      "hb4": true
+    },
+    "2026-06-16": {
+      "hb4": true
+    },
+    "2026-06-17": {
+      "hb4": true
+    },
+    "2026-06-26": {
+      "hb4": true
+    },
+    "2026-06-25": {
+      "hb1": true,
+      "hb2": true,
+      "hb4": true,
+      "hb5": true
+    },
+    "2026-06-24": {
+      "hb1": false,
+      "hb2": true,
+      "hb4": true
+    },
+    "2026-06-22": {
+      "hb1": true,
+      "hb2": true,
+      "hb4": true
+    },
+    "2026-06-23": {
+      "hb1": true,
+      "hb2": true,
+      "hb4": true
+    },
+    "2026-06-19": {
+      "hb1": true,
+      "hb2": true,
+      "hb4": true,
+      "hb5": true
+    },
+    "2026-06-20": {
+      "hb1": true,
+      "hb2": true,
+      "hb3": true,
+      "hb4": true,
+      "hb5": true
+    },
+    "2026-06-21": {
+      "hb1": true,
+      "hb2": true,
+      "hb4": true,
+      "hb5": true
+    },
+    "2026-06-27": {
+      "hb1": true,
+      "hb4": true,
+      "hb5": true
+    },
+    "2026-06-28": {
+      "hb1": true,
+      "hb2": true,
+      "hb4": true,
+      "hb5": true
+    },
+    "2026-06-29": {
+      "hb2": true,
+      "hb4": true,
+      "hb5": true
+    },
+    "2026-06-30": {
+      "hb3": true
+    }
+  }
+}
